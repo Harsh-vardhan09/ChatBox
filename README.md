@@ -30,5 +30,5 @@ Socket.IO sometimes needs direct access to the underlying server (for upgrades, 
 
 ---
 
-Socket.Broadcast is used to send to all other than the sender
-socket.emit send the message to all sockets
+- Socket.Broadcast is used to send to all other than the sender
+- socket.emit send the message to all sockets
